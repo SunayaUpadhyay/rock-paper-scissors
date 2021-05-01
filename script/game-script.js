@@ -100,7 +100,7 @@ function playGame(e) {
 
         body.appendChild(title);
         document.addEventListener("keydown", () => {
-            location.replace("../main-page.html")
+            location.replace("../rock-paper-scissors/main-page.html")
         })
         
     }
